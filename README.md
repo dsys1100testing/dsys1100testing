@@ -1,4 +1,4 @@
-[▼ EN Version ▼](g.co)  
+[▼ EN Version ▼](https://github.com/dsys1100testing/dsys1100testing/blob/main/README.md#main)  
 
 ## Главное
 Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто chel.  
@@ -98,8 +98,9 @@
 </details>
 
 ## Main
-Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто chel.  
-Возраст: 31.08.2004  
-Время: UTC+4  
-Интересы: Музыка, техника, операционные системы и Minecraft.  
-Любимая музыка: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.
+Danil(a). Nanostreamer, Windows user, little Linux user, chel.  
+Age: 31.08.2004  
+Timezone: UTC+4  
+Interests: Music, technology, operating systems and Minecraft.  
+Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; In general I listen to everything except Russian pop and NCS.  
+123
