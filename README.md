@@ -1,4 +1,4 @@
-[▼ EN Version ▼](https://github.com/dsys1100testing/dsys1100testing/blob/main/README.md#main)  
+[▼ EN Version ▼](#main)  
 
 ## Главное
 Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто chel.  
