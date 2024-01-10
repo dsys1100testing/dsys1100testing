@@ -156,7 +156,7 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
 
 [My site (trying to move from there to here)](https://dsys1100.github.io/index.html)
 
-## Устройства
+## Devices
 <details><summary>PC</summary>
 
    AeroCool ECO-450W  
