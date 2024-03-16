@@ -127,7 +127,7 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
 [![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
 [![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100) 
-[![BK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
 [![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
 [![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG) 
