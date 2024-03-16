@@ -1,29 +1,31 @@
 [▼ EN Version ▼](#main)  
 
 ## Главное
-Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто chel.  
+Данил(а). Наностример, виндузятник, чуть-чуть линуксоид, просто чел.  
 Возраст: 31.08.2004  
 Время: UTC+4  
 Интересы: Музыка, техника, операционные системы и Minecraft.  
 Любимая музыка: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; А так вообще слушаю всё кроме русской попсы и баянных NCS.
 
 ## Ссылки
-[![Youtube 1](https://img.shields.io/badge/Youtube%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![Youtube 2](https://img.shields.io/badge/Youtube%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![YT 1](https://img.shields.io/badge/YT%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![YT 2](https://img.shields.io/badge/YT%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
 [![Instagram](https://img.shields.io/badge/Instagram-FBBB65?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing) 
-[![ВКонтакте](https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100) 
+[![BK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
 [![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
 [![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG) 
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)
 [![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
 
 ## Мои проекты
-[Linux штуки](https://github.com/dsys1100/stuff)
+[Скрипты, штуки](https://github.com/dsys1100/stuff)
 
 <details><summary>Windows сборки</summary>
   
@@ -71,8 +73,8 @@
    Intel Core i3-10100F BOX  
    MSI NVIDIA GeForce GTX 1050 Ti  
    KingSpec 16GB DDR4 3200 MHz  
-   SSD KingSpec 256GB  
-   HDD 2.5" WD 1TB  
+   SSD 2.5" KingSpec 256GB  
+   SSD 2.5" Samsung 2TB  
    PowerCase Alisio Micro X4B  
 </details>
 
@@ -82,8 +84,8 @@
    Intel HD Graphics 3000  
    Nanya 4GB DDR3 1333MHz  
    Samsung 2GB DDR3L 1600MHz  
-   SSD Apacer 256GB  
-   HDD Seagate 320GB  
+   SSD 2.5" Apacer 256GB  
+   HDD 2.5" WD 1TB  
 </details>
 
 <details><summary>Redmi Note 5</summary>
@@ -109,30 +111,32 @@
 -----
 
 ## Main
-Danil(a). Nanostreamer, Windows user, little Linux user, chel.  
+Danil(a). Nanostreamer, Windows user, little Linux user, guy xd.  
 Age: 31.08.2004  
 Timezone: UTC+4  
 Interests: Music, technology, operating systems and Minecraft.  
-Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; In general I listen to everything except Russian pop and NCS.  
+Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррисона, PollmixaN, Лжедмитрий VI, Rammstein; I listen to everything except Russian pop and OverPopular NCS.  
 
 
 ## Links
-[![Youtube 1](https://img.shields.io/badge/Youtube%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
-[![Youtube 2](https://img.shields.io/badge/Youtube%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
+[![YT 1](https://img.shields.io/badge/YT%201-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100)](https://www.youtube.com/@dsys1100)
+[![YT 2](https://img.shields.io/badge/YT%202-F61C0D?style=plastic&link=https://www.youtube.com/@dsys1100_testing)](https://www.youtube.com/@dsys1100_testing)
 [![Twitch](https://img.shields.io/badge/Twitch-6441A4?style=plastic&link=https://www.twitch.tv/dsys1100)](https://www.twitch.tv/dsys1100)
 [![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=plastic&link=https://twitter.com/dsys1100)](https://twitter.com/dsys1100)
 [![Instagram](https://img.shields.io/badge/Instagram-FBBB65?style=plastic&link=https://instagram.com/username_dsys1100)](https://instagram.com/username_dsys1100)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=plastic&link=https://github.com/dsys1100)](https://github.com/dsys1100)
-[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing) 
-[![VKontakte](https://img.shields.io/badge/VKontakte-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
+[![Testing](https://img.shields.io/badge/Testing-black?style=plastic&link=https://github.com/dsys1100testing)](https://github.com/dsys1100testing)
+[![Archive](https://img.shields.io/badge/Archive-222222?style=plastic&link=https://archive.org/details/@dsys1100)](https://archive.org/details/@dsys1100) 
+[![BK](https://img.shields.io/badge/BK-0077FF?style=plastic&link=https://vk.com/dsys1100)](https://vk.com/dsys1100)
 [![Telegram](https://img.shields.io/badge/Telegram-2399D6?style=plastic&link=https://t.me/dsys1100)](https://t.me/dsys1100)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&link=https://discord.com/users/690945624740462613)](https://discord.com/users/690945624740462613)
 [![Server](https://img.shields.io/badge/Server-5865F2?style=plastic&link=https://discord.gg/DbFpfdvEcG)](https://discord.gg/DbFpfdvEcG) 
 [![Donate](https://img.shields.io/badge/Donate-F58D07?style=plastic&link=https://donationalerts.com/r/dsys1100)](https://donationalerts.com/r/dsys1100)
+[![Boosty](https://img.shields.io/badge/Boosty-EF7731?style=plastic&link=https://boosty.to/dsys1100/)](https://boosty.to/dsys1100/)
 [![Steam](https://img.shields.io/badge/Steam-0E1C31?style=plastic&link=https://steamcommunity.com/id/dsys1100/)](https://steamcommunity.com/id/dsys1100/)
 
 ## My projects
-[Linux stuff](https://github.com/dsys1100/stuff)
+[Scripts, stuff](https://github.com/dsys1100/stuff)
 
 <details><summary>Custom Windows builds</summary>
   
@@ -180,8 +184,8 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
    Intel Core i3-10100F BOX  
    MSI NVIDIA GeForce GTX 1050 Ti  
    KingSpec 16GB DDR4 3200 MHz  
-   SSD KingSpec 256GB  
-   HDD 2.5" WD 1TB  
+   SSD 2.5" KingSpec 256GB  
+   SSD 2.5" Samsung 2TB  
    PowerCase Alisio Micro X4B  
 </details>
 
@@ -191,8 +195,8 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
    Intel HD Graphics 3000  
    Nanya 4GB DDR3 1333MHz  
    Samsung 2GB DDR3L 1600MHz  
-   SSD Apacer 256GB  
-   HDD Seagate 320GB  
+   SSD 2.5" Apacer 256GB  
+   HDD 2.5" WD 1TB  
 </details>
 
 <details><summary>Redmi Note 5</summary>
