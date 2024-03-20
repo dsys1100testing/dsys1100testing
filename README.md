@@ -56,7 +56,8 @@
    [Список без бага, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [Мой репак MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
    [Мой репак Vsmart OS 4, a11](https://mega.nz/folder/oapFHCyb#rCAt6FYycC9xS5o8gkcZ_w)  
-   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)
+   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)  
+   [Мой репак Pixel Experience Plus, a12.1](https://mega.nz/folder/FPwk2K6J#9GfVyy5cULZKU0ZyHMhReQ)
 </details>
 
 <details><summary>Штуки для Redmi Note 5</summary>
@@ -169,7 +170,8 @@ Favorite music/artists: Lodoss, Oxxxymiron, ЖЩ, MZLFF, Гости Гаррис
    [List without bug, Android 12](https://4pda.to/forum/index.php?act=findpost&pid=115649997&anchor=Spoil-115649997-2)  
    [My repack MIUI12.5_A10_el13_port](https://mega.nz/folder/FHIh3AoT#Gx7hUabXruD8UD_-z-f73A)  
    [My repack Vsmart OS 4, a11](https://mega.nz/folder/oapFHCyb#rCAt6FYycC9xS5o8gkcZ_w)  
-   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)
+   [Google logo + dark bootanimation](https://mega.nz/folder/hSQWzbSa#YrDWHYqQe1Ibz7oaS_2Sng)  
+   [My repack Pixel Experience Plus, a12.1](https://mega.nz/folder/FPwk2K6J#9GfVyy5cULZKU0ZyHMhReQ)
 </details>
 
 <details><summary>Redmi Note 5 stuff</summary>
